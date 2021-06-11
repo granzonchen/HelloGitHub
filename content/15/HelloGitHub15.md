@@ -1,24 +1,13 @@
 # 《HelloGitHub》第 15 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
-- [C++ 项目](#C-项目)
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/15/) 获取更好的阅读体验。
+
 - [CSS 项目](#CSS-项目)
 - [Go 项目](#Go-项目)
 - [Java 项目](#Java-项目)
@@ -30,67 +19,60 @@
 - [开源书籍](#开源书籍)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
-
-### C++ 项目
-1、[snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chuyangliu/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### CSS 项目
-2、[mdui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)
+1、[mdui](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zdhxiong/mdui)：MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，[文档](https://www.mdui.org/docs)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/mdui-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-3、[aliyungo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/denverdino/aliyungo)：非官方的 Aliyun Go语言 SDK 支持API：ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service
+2、[aliyungo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/denverdino/aliyungo)：非官方的 Aliyun Go语言 SDK 支持API：ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service
 
-4、[conference](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gopherchina/conference)：Go 语言实际项目应用的技术分享
+3、[conference](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gopherchina/conference)：Go 语言实际项目应用的技术分享
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-5、[FunGameRefresh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Hitomis/FunGameRefresh)：好玩的下拉刷新控件
+4、[FunGameRefresh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Hitomis/FunGameRefresh)：好玩的下拉刷新控件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/FunGameRefresh.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[ProgressManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/ProgressManager)：一行代码即可监听 App 中所有网络链接的上传以及下载进度，包括 Glide 的图片加载进度。实现原理类似 EventBus 你可在 App 中的任何地方，将多个监听器以 URL 地址作为标识符，注册到本框架。当此 URL 地址存在下载或者上传的动作时，框架会主动调用所有使用此 URL 地址注册过的监听器，达到多个模块的同步更新
+5、[ProgressManager](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JessYanCoding/ProgressManager)：一行代码即可监听 App 中所有网络链接的上传以及下载进度，包括 Glide 的图片加载进度。实现原理类似 EventBus 你可在 App 中的任何地方，将多个监听器以 URL 地址作为标识符，注册到本框架。当此 URL 地址存在下载或者上传的动作时，框架会主动调用所有使用此 URL 地址注册过的监听器，达到多个模块的同步更新
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/progressManager.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-7、[veneno](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhuyingda/veneno)：一个基于 Node.js 编写的 web 安全漏洞自动化扫描框架
+6、[veneno](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhuyingda/veneno)：一个基于 Node.js 编写的 web 安全漏洞自动化扫描框架
 
-8、[xdomain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jpillora/xdomain)：纯 JavaScript 实现 CROS 的库，[在线示例](http://jpillora.com/xdomain/)
+7、[xdomain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jpillora/xdomain)：纯 JavaScript 实现 CROS 的库，[在线示例](http://jpillora.com/xdomain/)
 
-9、[font-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aui/font-spider)：字蛛是一个智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩
+8、[font-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aui/font-spider)：字蛛是一个智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/font-spider-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[slick](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](http://kenwheeler.github.io/slick/)
+9、[slick](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kenwheeler/slick)：实现了几乎所有效果的轮播图插件，[在线演示](http://kenwheeler.github.io/slick/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
-11、[spectacle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置
+10、[spectacle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eczarny/spectacle)：OS X 系统下的窗口管理工具，通过快捷键方便、快捷的调整窗口大小和位置
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/spectacle-show-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[FLEX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Flipboard/FLEX)：用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
+11、[FLEX](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FLEXTool/FLEX)：用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/flex.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -98,13 +80,13 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-13、[musicbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/darknessomi/musicbox)：基于 Python 编写的网易云音乐**命令行**版本，使用起来简单优雅，能够快速安装及使用
+12、[musicbox](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/darknessomi/musicbox)：基于 Python 编写的网易云音乐**命令行**版本，使用起来简单优雅，能够快速安装及使用
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/musicbox.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[django-blog-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zmrenwu/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
+13、[django-blog-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jukanntenn/django-blog-tutorial)：基于最新版 Django 1.10 和 Python 3.5，通过 26 篇教程一步步带你使用 Django 从零开发一个个人博客系统，在实践的同时掌握 Django 的开发技巧，[完成效果展示](http://demo.zmrenwu.com/)
 
-15、[aredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NoneGG/aredis)：一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。[作者](https://github.com/NoneGG)希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：
+14、[aredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NoneGG/aredis)：一款基于 Python3 asyncio 的异步 redis 客户端，支持对于单实例，连接池， 哨兵以及集群。[作者](https://github.com/NoneGG)希望可以找到志同道合的小伙伴集思广益，一起维护、优化。示例代码如下：
 ```Python
    >>> import asyncio
    >>> from aredis import StrictRedis
@@ -127,7 +109,7 @@
    >>> loop.run_until_complete(example())
 ```
 
-16、[freezegun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spulec/freezegun)：时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：
+15、[freezegun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spulec/freezegun)：时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：
 ```python
 from freezegun import freeze_time
 import datetime
@@ -139,6 +121,10 @@ def test():
     assert datetime.datetime.now() == datetime.datetime(2012, 1, 14)
 
 ```
+
+16、[snake](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chuyangliu/snake)：贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/15/img/snake.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -184,10 +170,11 @@ def test():
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/15/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 41 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/41/) 获取更好的阅读体验。
+
 - [C# 项目](#C-项目)
 - [C++ 项目](#C-项目-1)
 - [Go 项目](#Go-项目)
@@ -31,15 +21,15 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C# 项目
 1、[csredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/2881099/csredis)：Redis.io 官方推荐的 C# 语言 redis 客户端库，支持 redis 2.8-5.0 版本的所有命令，且包含哨兵、集群等功能。该项目从 2016 年开始持续迭代更新，实现了低门槛、高性能和分区等高级玩法。该项目作者：[2881099](https://github.com/2881099)，在 GitHub 上开源了很多有趣、实用的 C# 项目。欢迎大家关注他，同时参与到他的项目中，为开源社区贡献自己的一份力量。示例代码：
@@ -195,7 +185,7 @@ if __name__ == '__main__':
     print(lun)  # 二零一九年 七月 十四 星期四 无
 ```
 
-17、[bullet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Mckinsey666/bullet)：一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。看下面的效果图你就知道它是干什么
+17、[bullet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bchao1/bullet)：一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。看下面的效果图你就知道它是干什么
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/bullet.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -252,7 +242,7 @@ RestClient.post( url,
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dapenti/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
+21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BoringApp/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/AppearancesSwitcher.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -273,7 +263,7 @@ RestClient.post( url,
 ### 机器学习
 25、[numpy-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/teadocs/numpy-cn)：这是 NumPy 中文翻译文档。适合任何想了解学习 NumPy 的人，还可以当作手册查阅。如果你是新手朋友，推荐阅读基础文章中的：理解 Numpy、NumPy 简单入门教程、创建 Numpy 数组的不同方式，参考文章里会不定期更新国内外优秀的 Numpy 相关的内容。如果你想徒手实现神经网络可以参看 NumPy 与 神经网络、 NumPy 实现 DNC、RNN 和 LSTM 神经网络算法
 
-26、[Awesome_Multimodal_Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
+26、[Awesome-Multimodal-Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
 
 27、[rasa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RasaHQ/rasa)：一个专门为了多轮人机对话而生的框架。主要包含 Rasa Core、Rasa NLU 两大模块，提供了对话场景、意图理解、实体抽取等功能。用户只需按照平台的语料格式构建自己的语料，便可以方便的进行意图理解和实体抽取的训练。目前使用 Rasa 平台的用户也逐渐多了起来，除了官方文档网上也容易的找到相关的项目，便于学习和上手
 
@@ -291,10 +281,11 @@ RestClient.post( url,
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/41/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

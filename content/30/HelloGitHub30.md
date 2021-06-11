@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 30 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/30/) 获取更好的阅读体验。
+
 - [C++ 项目](#C-项目)
 - [CSS 项目](#CSS-项目)
 - [Go 项目](#Go-项目)
@@ -30,15 +20,15 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C++ 项目
 1、[2048.cpp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/plibither8/2048.cpp)：C++ 写的终端 2048 游戏
@@ -52,7 +42,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/github-corners.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[simple-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simple-icons/simple-icons)：流行品牌的免费 SVG 图标库，[在线预览](https://simpleicons.org/)
+3、[simple-icons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simple-icons/simple-icons)：1000+ 个流行品牌的免费 SVG 图标库。[在线预览](https://simpleicons.org/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/30/img/simple-icons.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -158,20 +148,18 @@ print(s)
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-17、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dt-fe/weekly)：前端精读。前端界的好文精读，每周更新
+17、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ascoders/weekly)：前端精读。前端界的好文精读，每周更新
 
 18、[DDFE-blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DDFE/DDFE-blog)：滴滴前端技术分享
 
-19、[Algorithm_for_Interview-Chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imhuay/Algorithm_for_Interview-Chinese)：算法、深度学习、NLP 面试笔记
+19、[chinese-xinhua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwxcoo/chinese-xinhua)：中华新华字典数据库。包括歇后语，成语，词语，汉字
 
-20、[chinese-xinhua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pwxcoo/chinese-xinhua)：中华新华字典数据库。包括歇后语，成语，词语，汉字
-
-21、[HowToBeAProgrammer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/braydie/HowToBeAProgrammer)：成为一名好的程序员是困难的，将一个想法变为现实，最困难的地方在于与你的同事和顾客相处。编程能力很重要，但在好的程序员看来。相比构建一个让各种各样客户都满意的软件系统，纯粹的编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我 21 岁时，希望别人告诉我的事。[中文版](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md#%E7%9B%AE%E5%BD%95)
+20、[HowToBeAProgrammer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/braydie/HowToBeAProgrammer)：成为一名好的程序员是困难的，将一个想法变为现实，最困难的地方在于与你的同事和顾客相处。编程能力很重要，但在好的程序员看来。相比构建一个让各种各样客户都满意的软件系统，纯粹的编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我 21 岁时，希望别人告诉我的事。[中文版](https://github.com/braydie/HowToBeAProgrammer/blob/master/zh/README.md#%E7%9B%AE%E5%BD%95)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-22、[100-Days-Of-ML-Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Avik-Jain/100-Days-Of-ML-Code)：《机器学习 100天》[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+21、[100-Days-Of-ML-Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Avik-Jain/100-Days-Of-ML-Code)：《机器学习 100天》[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -183,10 +171,11 @@ print(s)
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/30/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

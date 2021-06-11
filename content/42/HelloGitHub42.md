@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 42 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/42/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C++ 项目](#C-项目-1)
 - [CSS 项目](#CSS-项目)
@@ -33,15 +23,15 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
 1、[linq4c](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/haifenghuang/linq4c)：如果你想在 C 中使用隔壁 C# 的 linq 方法，那么不妨来使用这个项目！这是它的 C 语言版。实现了 linq 的大部分方法（60+）。现在它还在不断完善中，欢迎更多的小伙伴加入共同维护
@@ -254,7 +244,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 ### 教程
 27、[advanced-java](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doocs/advanced-java)：一份 Java 工程师进阶知识点集合，内容涵盖：高并发、分布式、高可用、微服务等领域知识。这些知识点不局限于 Java 语言，后端的同学也可以从中收获很多，[在线阅读](https://doocs.github.io/advanced-java)
 
-28、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Q-Angelo/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
+28、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qufei1993/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
 
 29、[c9-python-getting-started](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/c9-python-getting-started)：微软出品的零基础 Python 入门教程，内容浅显易懂。包含示例代码、演示的 PPT、[配套的 Youtube 视频](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
@@ -287,10 +277,11 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/42/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

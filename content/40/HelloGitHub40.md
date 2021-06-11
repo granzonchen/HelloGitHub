@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 40 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/40/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C# 项目](#C-项目-1)
 - [C++ 项目](#C-项目-2)
@@ -34,15 +24,15 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
 1、[SuperWeChatPC](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anhkgg/SuperWeChatPC)：这是一个超级微信电脑客户端。没错，是超级！因为它不仅是一个微信电脑客户端，还支持以下功能：
@@ -72,7 +62,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnlh/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
+6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ehang-io/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
 ```
 go get -u github.com/cnlh/nps
 go build cmd/nps/nps.go # 服务端程序
@@ -165,11 +155,11 @@ console.log(uuid());
 console.log(dateFormat(now(), "yyyy-mm-dd"));
 ```
 
-19、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lmjben/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
+19、[cdfang-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mengsixing/cdfang-spider)：成都房源统计的数据可视化项目。该项目统计了成都开盘以来所有的房源信息，帮助想在成都买房的同学提供一些可视化的数据分析，比房协网官方的数据更直观，分析更透彻。此项目包含了一套完整的源代码，以及详细的项目搭建文档，开发者可以根据搭建文档一步一步搭建这个项目。可以帮助开发者学习前端，后端，数据库端，单元测试，持续集成等全套知识。基于此项目，你可以做任何地区的房源信息可视化，让数据说话
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/40/img/cdfang-spider.png' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[x-build](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codexu/x-build)：面向小型项目的脚手架工具，通过终端命令最快在几秒钟初始化项目目录。该库内部集成了 webpack、babel、eslint 等前端常用的工具。通过该项目可以了解脚手架的开发，并且可以熟悉如何在工具中集成 webpack 这对自定义脚手架开发很有帮助
+20、[x-build](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/code-device/x-build)：面向小型项目的脚手架工具，通过终端命令最快在几秒钟初始化项目目录。该库内部集成了 webpack、babel、eslint 等前端常用的工具。通过该项目可以了解脚手架的开发，并且可以熟悉如何在工具中集成 webpack 这对自定义脚手架开发很有帮助
 
 21、[vue-unit-test-with-jest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/holylovelqq/vue-unit-test-with-jest)：一个 Vue 的单元测试项目，列出了 Vue 开发时大多需要测试的环节，并附有测试代码及说明文档。现在前端开发的技术越来越多，但是我们只是注意到了开发阶段并没有做好对应的单元测试步骤，我们可以通过这个项目学习如何针对 Vue 项目做单元测试。示例代码：
 ```javascript
@@ -217,7 +207,7 @@ it('filter test', () => {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Ruby 项目
-27、[rubocop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rubocop-hq/rubocop)：一个 Ruby 静态代码分析器和代码格式化程序。开箱即用，强制执行社区 Ruby 样式指南中列出的许多指导原则。RuboCop 非常灵活，大多数行为都可以通过各种配置选项进行调整。除了报告代码中的问题外，还可以自动为您解决一些问题。使用最广、效率超高的 Ruby 静态代码检测工具。示例代码：
+27、[rubocop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rubocop/rubocop)：一个 Ruby 静态代码分析器和代码格式化程序。开箱即用，强制执行社区 Ruby 样式指南中列出的许多指导原则。RuboCop 非常灵活，大多数行为都可以通过各种配置选项进行调整。除了报告代码中的问题外，还可以自动为您解决一些问题。使用最广、效率超高的 Ruby 静态代码检测工具。示例代码：
 ```
 $ gem install rubocop
 $ cd my/cool/ruby/project
@@ -258,7 +248,7 @@ $ rubocop
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxqfl/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
 
 37、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/hub)：一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！示例代码：
 ```
@@ -337,10 +327,11 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/40/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
